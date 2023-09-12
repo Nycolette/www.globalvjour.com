@@ -9,7 +9,14 @@ Primary use:    MultiPurpose One Page Template
 
 
 /*------------------------------------------------------------------
-# [Color codes]
+# [Color codes] 
+
+38c4d3 - medyo blue
+62e0e6 - mas medyo blue
+fefefe - white
+f1e3ae - yellow
+eeefea - dirty white
+05b1d6 - blue
 
 # Cyan (active elements, links) #27c5c3
 # */
@@ -51,6 +58,7 @@ a.blog-item-more:hover,
 }
 
 
+.main-nav, .full-wrapper, .dark,
 .btn-mod.btn-border-c:hover,
 .btn-mod.btn-border-c:focus,
 .btn-mod.btn-color,
@@ -58,6 +66,7 @@ a.blog-item-more:hover,
 .btn-mod.btn-color:focus,
 .hs-line-10.highlight,
 .bg-color,
+.bg-dark,
 .bg-colort-alfa:before,
 .bg-colort-alfa .YTPOverlay:before,
 .bg-color-alfa-30:before,
@@ -73,6 +82,6 @@ a.blog-item-more:hover,
 .lp-more,
 .progress-color .progress-bar,
 .progress-color .progress-bar > span{
-    background-color: #27c5c3;
+    background-color: #05b1d6;
 }
 
